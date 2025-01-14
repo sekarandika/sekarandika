@@ -3,7 +3,9 @@
 I'm Sekar Andika, Computer Science Student.
 
 🔭 I’m currently working on Tourism Sentiment Analysis (Thesis)
-🌱 Learning Machine Learning, NLP, Data Science, and 
+
+🌱 Learning Machine Learning, NLP, and Data Science
+
 🛠️ Tools & Technologies:
 - **Programming Languages**: Python, C, C++, R, SQL
 - **Libraries**: Pandas, NumPy, scikit-learn, TensorFlow, Keras, NLTK
